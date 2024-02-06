@@ -64,7 +64,7 @@ thead {
 /* Responsivt for mindre enheter  */
 @media screen and (max-width: 768px) {
   html {
-    font-size: 62%;
+    font-size: 70%;
   }
 
   h1 {

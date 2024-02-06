@@ -1,4 +1,4 @@
-5952
+5954
 160C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@parcel\core\src\requests\AssetRequest.js133516579966256428 0
 182C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133516579972165978 0
 192C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Block.js133516579963115766 0
@@ -17,7 +17,7 @@
 175C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133516579966517981 0
 179C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\posthtml\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js133516579960262881 0
 133C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\lmdb\README.md133516579971370700 0
-110C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist133517339444086780 1
+110C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist133517341292801044 1
 178C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\csso\node_modules\css-tree\lib\syntax\node\ClassSelector.js133516579971110729 0
 143C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\detect-libc\package.json133516579959760015 0
 130C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\js-yaml\bin133516579963697007 1
@@ -86,7 +86,7 @@
 146C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\source-map-js\lib\base64.js133516579961149981 0
 152C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\mdn-data\css\at-rules.schema.json133516579962531485 0
 197C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-musl.node133516579968310590 0
-123C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\src\css\style.css133517339075427449 0
+123C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\src\css\style.css133517341226327847 0
 158C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@swc\helpers\_\_tagged_template_literal133516579973201202 1
 123C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\.bin133516579978137527 1
 156C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\csso\lib\restructure\1-mergeAtrule.js133516579967223481 0
@@ -3884,7 +3884,7 @@
 150C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\caniuse-lite\data\regions\MC.js133516579975321692 0
 150C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\caniuse-lite\data\regions\MG.js133516579975481688 0
 150C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\caniuse-lite\data\regions\ML.js133516579975531691 0
-121C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.html133517339444028825 0
+121C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.html133517341292750216 0
 194C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeScriptElement.js133516579968076590 0
 150C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\caniuse-lite\data\regions\MM.js133516579975541694 0
 150C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\caniuse-lite\data\regions\MN.js133516579975541694 0
@@ -5942,6 +5942,8 @@
 128C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\.bin\svgo133516579978157535 0
 132C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\.bin\svgo.ps1133516579978157535 0
 132C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.18dbc454.js.map133517335018111290 0
+129C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.28ca5b91.css133517341292750216 0
+133C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.28ca5b91.css.map133517341292789276 0
 133C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.4b74b1f2.css.map133517332877255760 0
 133C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.4c67adb2.css.map133516982468666299 0
 128C:\Users\maamo\OneDrive\Desktop\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.814cfb19.js133517010890018592 0
