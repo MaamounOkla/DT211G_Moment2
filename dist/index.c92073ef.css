@@ -5,7 +5,6 @@
 }
 
 body {
-  overflow-wrap: anywhere;
   background: #eeefff;
   font-family: Montserrat, sans-serif;
 }
@@ -22,7 +21,6 @@ main {
   flex-direction: column;
   justify-content: start;
   align-items: start;
-  min-width: 900px;
   min-height: 100vh;
   display: flex;
   box-shadow: 0 0 5rem #a3a3a3;
@@ -56,10 +54,11 @@ table {
 th, td {
   text-align: left;
   border-bottom: 1px solid #d3d3d3;
-  padding: 10px;
+  padding: 1rem;
 }
 
-th {
+thead {
+  cursor: pointer;
   text-decoration: underline;
 }
 
