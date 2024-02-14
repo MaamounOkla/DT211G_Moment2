@@ -14,7 +14,7 @@
 133C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\caniuse-lite\data\regions\SR.js133516579976747031 0
 148C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c133516579968170595 0
 154C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\csso\node_modules\css-tree\cjs\lexer\match-graph.cjs133516579968998933 0
-101C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\package.json133516982350816445 0
+101C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\package.json133523744229519734 0
 135C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@parcel\packager-svg\package.json133516579961356185 0
 114C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\import-fresh133516579961416201 1
 134C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@parcel\transformer-posthtml\src133516579961666295 1
@@ -57,7 +57,7 @@
 152C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\csso\node_modules\css-tree\cjs\convertor\index.cjs133516579968012862 0
 151C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133516579964103254 0
 135C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\svgo\plugins\removeUselessDefs.js133516579969476127 0
-93C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist133523741746802779 1
+93C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist133523748355493832 1
 128C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@parcel\optimizer-htmlnano133516579962043146 1
 165C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\plugins.js133516579966781596 0
 122C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\csso\lib\compress.js133516579968310590 0
@@ -118,7 +118,7 @@
 153C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\css-select\node_modules\entities\lib\index.d.ts.map133516579967582884 0
 130C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\timsort\build\timsort.min.js133516579962417682 0
 122C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\.bin\detect-libc.cmd133516579978137527 0
-103C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\src\js\main.js133517358165675590 0
+103C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\src\js\main.js133523748354980812 0
 180C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\function\expression.js133516579967449882 0
 124C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\term-size\vendor\macos133516579961231389 1
 137C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\svgo\plugins\cleanupListOfValues.js133516579967068647 0
@@ -566,7 +566,7 @@
 115C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\picomatch\lib133516579962417682 1
 124C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\picomatch\CHANGELOG.md133516579962985767 0
 124C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\update-browserslist-db133516579962417682 1
-116C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.28ca5b91.css.map133517341292789276 0
+116C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.28ca5b91.css.map133523741960201092 0
 151C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\csso\node_modules\css-tree\lib\tokenizer\types.js133516579972676059 0
 145C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\update-browserslist-db\check-npm-version.js133516579960076609 0
 131C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\svgo\plugins\convertColors.js133516579967254656 0
@@ -1732,7 +1732,7 @@
 125C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\lmdb\dist\index.cjs.map133516579971310727 0
 138C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\ordered-binary\assets\powers-dre.png133516579963636960 0
 136C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\is-fullwidth-code-point\index.d.ts133516579960046601 0
-111C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.18dbc454.js133523741746462756 0
+111C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.18dbc454.js133523748355265341 0
 140C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\ordered-binary\.nyc_output\processinfo133516579963025792 1
 115C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\htmlnano\docs133516579970215473 1
 182C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\ordered-binary\.nyc_output\processinfo\5b6bd808-0399-4ee6-9395-344688761dfa.json133516579962905581 0
@@ -2071,7 +2071,7 @@
 122C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@swc\helpers\_\index133516579973471201 1
 120C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\lmdb\src\lmdb-js.h133516579970265455 0
 153C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@swc\helpers\cjs\_class_apply_descriptor_update.cjs133516579964266267 0
-115C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.18dbc454.js.map133523741746482758 0
+115C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.18dbc454.js.map133523748355290501 0
 133C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\caniuse-lite\data\regions\KR.js133516579975051687 0
 119C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\lmdb\src\misc.cpp133516579969925452 0
 129C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\lmdb\src\ordered-binary.cpp133516579969955465 0
@@ -2290,7 +2290,7 @@
 114C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@swc\counter133516579960912177 1
 184C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\index.d.ts133516579966246383 0
 119C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\error-ex\index.js133516579960056601 0
-112C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.28ca5b91.css133517341292750216 0
+112C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.28ca5b91.css133523741960159853 0
 130C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\css-tree\lib\walker\index.js133516579972205979 0
 124C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\is-number\package.json133516579959696341 0
 147C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\caniuse-lite\data\features\promise-finally.js133516579976236926 0
@@ -4368,7 +4368,7 @@
 144C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\caniuse-lite\data\features\script-defer.js133516579976546949 0
 154C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\caniuse-lite\data\features\scrollintoviewifneeded.js133516579976556933 0
 136C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\caniuse-lite\data\features\sdch.js133516579976576931 0
-112C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.c92073ef.css133523741746252409 0
+112C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.c92073ef.css133523748355255345 0
 144C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\caniuse-lite\data\features\setimmediate.js133516579976616939 0
 134C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@parcel\core\lib\ParcelConfig.js133516579970375473 0
 172C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeStyleElement.js133516579968130590 0
@@ -5946,10 +5946,10 @@
 133C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\.bin\update-browserslist-db.cmd133516579978147541 0
 133C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\node_modules\.bin\update-browserslist-db.ps1133516579978147541 0
 112C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.4b74b1f2.css133517332877187579 0
-111C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.8d43d547.js133517332877187579 0
-115C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.8d43d547.js.map133517332877255760 0
+111C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.8d43d547.js133523741960159853 0
+115C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.8d43d547.js.map133523741960210865 0
 112C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.9f298d98.css133517010890018592 0
 112C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.ad8d9a2d.css133517339444028825 0
 116C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.ad8d9a2d.css.map133517339444071735 0
-116C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.c92073ef.css.map133523741746287472 0
-104C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.html133523741746792768 0
+116C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.c92073ef.css.map133523748355290501 0
+104C:\Users\maamo\Miun\DT211G-Frontend-baserad Webbutveckling\DT211G_Moment2\DT211G_Moment2\dist\index.html133523748355493832 0

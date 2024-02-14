@@ -86,7 +86,11 @@ function searchInput(e, data) {
 // Sorterings-funktion
 function sortData(dataKey, data) {
   //Sortera data efter vilken värde man valde.
-  const sortedData = data.sort((a, b) => a[dataKey] > b[dataKey]) ? 1 : -1;
+  const sortedData = data.sort((a, b) => {
+    if (a[dataKey] > b[dataKey]) { return 1};
+    if (a[dataKey] < b[dataKey]) {return -1};
+    return 0;
+  });
   //Rensa tabellinnehållet.
   tableBody.innerHTML = "";
 
