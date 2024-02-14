@@ -606,7 +606,7 @@ async function getData() {
         inputFieldEl.addEventListener("input", (e)=>{
             searchInput(e.target.value, data);
         });
-        //Sorterings eventlyssnare samt att lägga till/passa ner rätt key. 
+        //Sorterings eventlyssnare samt att lägga till/passa ner rätt key.
         document.getElementById("courseCode").addEventListener("click", ()=>{
             sortData("code", data);
         });
@@ -654,9 +654,9 @@ function searchInput(e, data) {
 }
 // Sorterings-funktion
 function sortData(dataKey, data) {
-    //Sortera data efter vilken värde man valde. 
+    //Sortera data efter vilken värde man valde.
     const sortedData = data.sort((a, b)=>a[dataKey] > b[dataKey]) ? 1 : -1;
-    //Rensa tabellinnehållet. 
+    //Rensa tabellinnehållet.
     tableBody.innerHTML = "";
     console.log("sorterar efter:", dataKey);
     data.forEach((course)=>{
